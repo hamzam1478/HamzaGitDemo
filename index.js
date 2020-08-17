@@ -1,1 +1,2 @@
-console.log("This is a test")
+let hamza = ("This is a test")
+console.log(hamza)
